@@ -23,3 +23,6 @@ By the end of this course, you will learn:
 The course is structured into 2 half-day sessions as follows:
 * Session 1 - Setting up your R environment, reading and writing data files, looking at and filtering the data
 * Session 2 - Data exploration - conditionals, loops, basic graphs and basic statistics, loading and installing packages
+
+R Installation: https://cran.r-project.org/
+RStudio installation: https://posit.co/download/rstudio-desktop/
